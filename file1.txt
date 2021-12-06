@@ -1,8 +1,3 @@
 <<<<<<< HEAD
 avinash
 shashank
-=======
-another new file
-added 2nd line
-git statsus
->>>>>>> parent of 4b129d0 (mine)
