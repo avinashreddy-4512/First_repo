@@ -1,4 +1,12 @@
 <<<<<<< HEAD
 avinash
 shashank
+<<<<<<< HEAD
 reddy
+=======
+=======
+another new file
+added 2nd line
+git statsus
+>>>>>>> parent of 4b129d0 (mine)
+>>>>>>> parent of c12049a (mine)
